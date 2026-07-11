@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is case-converter?
-A CLI tool for case converter.
+Case Converter
 
 ## Dependencies?
 Python stdlib only.

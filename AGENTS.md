@@ -1,7 +1,7 @@
 # case-converter
 
-CLI tool for case converter.
+Case Converter
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- Run `python3 scripts/case_converter.py --help`
+- Use `--json` for machine-readable output
