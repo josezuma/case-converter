@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is case-converter?
-Convert between text cases (camelCase, snake_case, etc.)
+A CLI tool for case converter.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
